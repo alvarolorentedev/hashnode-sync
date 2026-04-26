@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          hashnode_host: ${{ vars.HASHNODE_HOST }}
+          hashnode_host: ${{ secrets.HASHNODE_HOST }}
           hashnode_token: ${{ secrets.HASHNODE_TOKEN }}
           added_files: ${{ steps.changed-files.outputs.added_files }}
           modified_files: ${{ steps.changed-files.outputs.modified_files }}
