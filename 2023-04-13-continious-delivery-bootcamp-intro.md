@@ -30,3 +30,4 @@ This chapter we will do an intro on the tools we will use and how to commit code
 [﻿Watch the video on Youtube](https://youtu.be/nwpUtvHulWM)
 
 <!-- truncate -->
+

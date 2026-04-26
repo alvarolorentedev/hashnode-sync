@@ -60,3 +60,4 @@ Here’s why avoiding secrecy in strategic decisions is crucial:
 In conclusion, transparency is a cornerstone of effective leadership and a healthy chain of command. By being open and honest, leaders can build trust, encourage open communication, foster accountability, enhance employee morale, and drive organizational success. As you aspire to take on leadership roles, remember that transparency is not just a strategy; it's a commitment to creating a positive and thriving workplace culture.
 
 Embrace transparency, and you'll be well on your way to becoming a trusted and effective leader.
+

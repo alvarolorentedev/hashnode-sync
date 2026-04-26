@@ -42,3 +42,4 @@ However, creating a culture of psychological safety is not always easy. It requi
 Another important step is to establish clear guidelines and expectations for communication and behavior within the team. This can include things like setting ground rules for respectful dialogue and providing training on active listening and conflict resolution.
 
 Finally, it is essential to hold every one on the team accountable for maintaining a culture of psychological safety. This includes managers, who should lead by example and model the behavior they expect from their team.
+

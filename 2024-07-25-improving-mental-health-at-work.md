@@ -112,3 +112,4 @@ Addressing mental health in the workplace requires a multifaceted approach. Here
 ## Closing Words
 
 Mental health is a crucial aspect of overall well-being and productivity in the workplace. By recognizing the factors that affect mental health and implementing strategies to address them, we can create a supportive and healthy work environment. Remember, prioritizing mental health benefits not only individuals, but also the entire organization. It’s okay to take a step back, evaluate your well-being, and make necessary adjustments. Your mental health matters.
+

@@ -22,3 +22,4 @@ The workflow lives at `.github/workflows/publish.yml` and runs on:
 - Posts must stay in the repository root. The action expects root-level markdown files.
 - Filenames are treated as the post slug by the action, so renaming a file changes the effective slug.
 - The `repository_dispatch` trigger is only useful if you also wire Hashnode webhooks through a middleware as described by the action author.
+

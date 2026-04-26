@@ -167,3 +167,4 @@ Use the links below, or even better, hit reply and say hello. I’d love to hear
 - [🤮 Bad](https://tally.so/r/nWNL5P?rating=Bad&source=substack&medium=email&url=ai-kill-software-patterns)
 
 Please don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/) and send a message. I always respond to everyone!
+

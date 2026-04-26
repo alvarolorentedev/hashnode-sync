@@ -30,3 +30,4 @@ This chapter we will do an example on how to build and validate our project in g
 [﻿Watch the video on Youtube](https://youtu.be/QMwXxezykHc)
 
 <!-- truncate -->
+

@@ -130,3 +130,4 @@ The employee should also ensure they fulfill any contractual obligations, such a
 Job probation periods are an opportunity for both parties to evaluate the potential for a long-term, mutually beneficial relationship. By approaching these periods with transparency, open communication, and a willingness to learn, both employers and employees can make informed decisions about their future together.
 
 This period should not be demonized, even if it ends in a “No Pass”, it should be taken as a good outcome as it's a relationship that would have most probably failed, or would create friction and other risks down the road when legal obligation from both sides are more complex. If you're the employee, remember this is not a failure. Your worth remains unchanged—it simply wasn't the right fit or timing. If you're the employer, don't be too hard on yourself. Not all relationships work out. The best approach is to move forward and end things on the best terms possible.
+

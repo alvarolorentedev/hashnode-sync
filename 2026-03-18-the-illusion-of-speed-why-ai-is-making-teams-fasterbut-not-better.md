@@ -117,3 +117,4 @@ And most teams are still optimizing for the layer that stopped being the constra
 ---
 
 In the next issue, I’ll break down where the real bottleneck is hiding—and why most organizations are not designed to handle it.
+

@@ -148,3 +148,4 @@ When process displaces strategy, long-term engineering capability erodes.
 The responsibility of engineering leadership is not to resist governance but to prevent it from overwhelming the system it was designed to support.
 
 Sustainable organizations do not eliminate process. They design it intentionally and defend the time required to build the future.
+

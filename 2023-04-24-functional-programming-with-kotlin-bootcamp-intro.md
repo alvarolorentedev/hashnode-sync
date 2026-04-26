@@ -30,3 +30,4 @@ In this first chapter, we will do an intro of the differences between OOP and FP
 [﻿Watch the video on Youtube](https://youtu.be/DG3cj6dV3YM)
 
 <!-- truncate -->
+

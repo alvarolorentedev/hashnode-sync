@@ -134,3 +134,4 @@ Organizations that continue to optimize for output will produce more.
 Organizations that adapt will produce less—but with far greater clarity and impact.
 
 Because once building becomes cheap, the real discipline is not in what you create. It is in what you choose not to carry forward.
+

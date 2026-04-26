@@ -76,3 +76,4 @@ The question is, are you aware of it? And are you getting a return?
 I’m writing again — not because I figured everything out. But because I’ve lived enough of it to speak honestly.
 
 Welcome to The Engineering Tax.
+

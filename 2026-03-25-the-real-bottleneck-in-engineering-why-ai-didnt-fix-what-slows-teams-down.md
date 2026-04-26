@@ -122,3 +122,4 @@ They are still optimized for a world where execution was expensive and slow. A w
 That is no longer the challenge.
 
 Now, the challenge is knowing whether the thing we are building should exist at all—and proving it before we scale it.
+

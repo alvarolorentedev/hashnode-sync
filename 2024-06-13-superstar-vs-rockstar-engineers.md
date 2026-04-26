@@ -80,3 +80,4 @@ This is often a challenge as engineering ladders tend to favor Superstars, who a
 ## Closing thoughts
 
 Recognizing this duality and managing it effectively is one of the key roles of leadership in the tech industry. By acknowledging and valuing the unique contributions of both Superstars and Rockstars, leaders can foster a diverse, balanced, and highly productive team. This duality is not a hindrance, but a strength that can be harnessed to drive a team or company's success.
+

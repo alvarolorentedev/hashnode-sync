@@ -30,3 +30,4 @@ In this second chapter, we will initialize a project with gradle and kotlin
 [﻿Watch the video on Youtube](https://youtu.be/YSbMLid1h-c)
 
 <!-- truncate -->
+

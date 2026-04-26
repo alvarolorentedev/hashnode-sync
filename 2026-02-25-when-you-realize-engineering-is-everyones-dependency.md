@@ -136,3 +136,4 @@ Sustainable leverage requires defined interfaces.
 Engineering enables execution across domains, but accountability must remain with their respective functions. When ownership boundaries blur, coordination load concentrates, context switching increases, and system performance degrades.
 
 Engineering is a core operating layer of a company, and its effectiveness depends not only on technical excellence but also on governance design that balances central integration with distributed accountability.
+

@@ -89,3 +89,4 @@ What are the pros and cons of this model:
 ## Conclusion
 
 Time has improved things for all teams, and we are probably not at the end of the transformation of teams. Nevertheless, it is good for companies and individuals to adapt to changes in the environment.
+

@@ -94,3 +94,4 @@ There is no one size fit all, but modern practices tend to go towards simplicity
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBtiBA5QTEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9C0efJkT0Hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

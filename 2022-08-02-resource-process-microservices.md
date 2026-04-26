@@ -36,3 +36,4 @@ Independence
 Communication on this systems normally happen through queues and teams are in charge of specific process. Based on this idea, the indirection layer provided by this allows teams and service to be in control of their own environment and have a lower amount of external dependencies simplifying.
 Domain Understanding
 Business Organization
+

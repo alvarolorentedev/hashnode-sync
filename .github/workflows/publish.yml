@@ -38,7 +38,7 @@ jobs:
         with:
           hashnode_host: ${{ secrets.HASHNODE_HOST }}
           hashnode_token: ${{ secrets.HASHNODE_TOKEN }}
-          added_files: ${{ steps.changed-files.outputs.added_files }}
-          modified_files: ${{ steps.changed-files.outputs.modified_files }}
+          added_files: ${{ steps.changed-files.outputs.modified_files }}
+          modified_files: ""
           deleted_files: ${{ steps.changed-files.outputs.deleted_files }}
           hashnode_event: ${{ toJson(github.event.client_payload) }}

@@ -84,3 +84,4 @@ Eliminating filters from feedback loops can accelerate the process and lessen th
 ## Final Words
 
 In conclusion, the key to a successful hiring process lies in simplicity and efficiency. By focusing on eliminating unnecessary steps and reducing feedback loops, companies can accelerate their hiring process and attract and retain the best talent in the market, while they invest less of their current talent.
+

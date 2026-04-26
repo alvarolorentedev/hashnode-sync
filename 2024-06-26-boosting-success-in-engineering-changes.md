@@ -126,3 +126,4 @@ Use the links below, or even better, hit reply and say hello. I’d love to hear
 Please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/alvarolorentedev/) and send a message. I always respond to every one!
 
 Leads Horizons is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
