@@ -1,16 +1,18 @@
 ---
-published: true
-title: "Job Probation Period A Two Way Street For Success"
-description: "Dear readers, I am back. It has been a few “interesting” months in my life that have made me reflect a lot on some topics that before I thought were..."
-authors: alvarolorentedev
+title: Job Probation Period A Two Way Street For Success
+subtitle: Dear readers, I am back. It has been a few “interesting” months in my life
+  that have made me reflect a lot on some topics that before I thought were...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/03da3cea-93f6-4d53-9fe0-0f4641af5c91_1080x1080.jpeg
+publishedAt: '2024-09-26'
+originalArticleURL: https://theengineeringtax.com/p/job-probation-period-a-two-way-street
+ogTitle: Job Probation Period A Two Way Street For Success
+ogDescription: Dear readers, I am back. It has been a few “interesting” months in
+  my life that have made me reflect a lot on some topics that before I thought were...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/03da3cea-93f6-4d53-9fe0-0f4641af5c91_1080x1080.jpeg
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/job-probation-period-a-two-way-street
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/03da3cea-93f6-4d53-9fe0-0f4641af5c91_1080x1080.jpeg
+- name: substack
+  slug: substack
 ---
-
 Dear readers, I am back. It has been a few “interesting” months in my life that have made me reflect a lot on some topics that before I thought were trivial, and one-sided. I will try to share some thoughts over the next few posts. So let's start with a subject that is really fresh in my mind, as it's what has been affecting me over the last few months.
 
 <!-- truncate -->

@@ -1,16 +1,18 @@
 ---
-published: true
-title: 'Long-Term Team Productivity'
-description: 'It has been almost a year since McKinsey released their developer productivity approach. While I fully disagree with their ideas, it highlights the ongoing...'
-authors: alvarolorentedev
+title: Long-Term Team Productivity
+subtitle: It has been almost a year since McKinsey released their developer productivity
+  approach. While I fully disagree with their ideas, it highlights the ongoing...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/4fb72926-2d5a-4437-bc54-962a08c49f3e_941x287.png
+publishedAt: '2024-07-17'
+originalArticleURL: https://theengineeringtax.com/p/long-term-team-productivity
+ogTitle: Long-Term Team Productivity
+ogDescription: It has been almost a year since McKinsey released their developer productivity
+  approach. While I fully disagree with their ideas, it highlights the ongoing...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/4fb72926-2d5a-4437-bc54-962a08c49f3e_941x287.png
 tags:
-- substack
-draft: false
-series: ''
-canonical_url: https://theengineeringtax.com/p/long-term-team-productivity
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/4fb72926-2d5a-4437-bc54-962a08c49f3e_941x287.png
+- name: substack
+  slug: substack
 ---
-
 It has been almost a year since McKinsey released their developer productivity approach. While I fully disagree with their ideas, it highlights the ongoing interest of companies in continuously improving per-developer productivity.
 
 <!-- truncate -->

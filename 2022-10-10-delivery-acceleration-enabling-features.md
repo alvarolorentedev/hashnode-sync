@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: Enabling Features'
-draft: false
-description: How do we roll out features? What are some practices that can save us
-  from the big bang release
-authors: alvarolorentedev
+subtitle: How do we roll out features? What are some practices that can save us from
+  the big bang release
+coverImageUrl: https://www.alvarolorente.dev/img/blog/toggles.jpeg
+publishedAt: '2022-10-10'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/10/delivery-acceleration-enabling-features
+ogTitle: 'Delivery Acceleration: Enabling Features'
+ogDescription: How do we roll out features? What are some practices that can save
+  us from the big bang release
+ogImage: https://www.alvarolorente.dev/img/blog/toggles.jpeg
 tags:
-- productivity
-- devops
-- programming
-- softwaredevelopment
-canonical_url: https://www.alvarolorente.dev/blog/2022/10/10/delivery-acceleration-enabling-features
-cover_image: https://www.alvarolorente.dev/img/blog/toggles.jpeg
-series: Accelerate Continious Integration & Delivery Practices
+- name: productivity
+  slug: productivity
+- name: devops
+  slug: devops
+- name: programming
+  slug: programming
+- name: softwaredevelopment
+  slug: softwaredevelopment
 ---
-
 Now that we know where our code lives, we need to make sure our users get access to the features. For this, we need to get our code to the environment we want to deploy to, and control the rollout (if you are not a big bang release fan).
 
 <!-- truncate -->

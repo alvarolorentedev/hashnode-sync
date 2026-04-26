@@ -1,16 +1,18 @@
 ---
-published: true
-title: "Transforming Systems Operations Teams into a Unified Platform Team"
-description: "Over the last months, I've witnessed firsthand the transformation of my team from a basic operation provider to an internal service provider."
-authors: alvarolorentedev
+title: Transforming Systems Operations Teams into a Unified Platform Team
+subtitle: Over the last months, I've witnessed firsthand the transformation of my
+  team from a basic operation provider to an internal service provider.
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/bdbf3ca6-a5d8-4c6f-967f-fe46640e59e2_1000x1000.png
+publishedAt: '2025-05-08'
+originalArticleURL: https://theengineeringtax.com/p/transforming-systems-operations-teams
+ogTitle: Transforming Systems Operations Teams into a Unified Platform Team
+ogDescription: Over the last months, I've witnessed firsthand the transformation of
+  my team from a basic operation provider to an internal service provider.
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/bdbf3ca6-a5d8-4c6f-967f-fe46640e59e2_1000x1000.png
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/transforming-systems-operations-teams
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/bdbf3ca6-a5d8-4c6f-967f-fe46640e59e2_1000x1000.png
+- name: substack
+  slug: substack
 ---
-
 Over the last months, I've witnessed firsthand the transformation of my team from a basic operation provider to an internal service provider.
 
 <!-- truncate -->

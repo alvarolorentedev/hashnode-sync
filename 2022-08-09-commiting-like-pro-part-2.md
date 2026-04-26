@@ -1,20 +1,22 @@
 ---
-published: true
 title: 'Commiting Like a Pro in NodeJs: The Message'
-description: Using tools to create descriptive commits
-authors: alvarolorentedev
+subtitle: Using tools to create descriptive commits
+coverImageUrl: https://commitizen-tools.github.io/commitizen/images/demo.gif
+publishedAt: '2022-08-09'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/09/commiting-like-pro-part-2
+ogTitle: 'Commiting Like a Pro in NodeJs: The Message'
+ogDescription: Using tools to create descriptive commits
+ogImage: https://commitizen-tools.github.io/commitizen/images/demo.gif
 tags:
-- webdev
-- git
-- programming
-- productivity
-draft: false
-series: commiting Like a Pro in NodeJs
-canonical_url: https://www.alvarolorente.dev/blog/2022/08/09/commiting-like-pro-part-2
-cover_image: https://commitizen-tools.github.io/commitizen/images/demo.gif
+- name: webdev
+  slug: webdev
+- name: git
+  slug: git
+- name: programming
+  slug: programming
+- name: productivity
+  slug: productivity
 ---
-
-
 <!-- truncate -->
 
 ## Why are messages important?

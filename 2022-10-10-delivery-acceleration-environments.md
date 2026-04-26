@@ -1,20 +1,23 @@
 ---
-published: true
 title: 'Delivery Acceleration: Deployment Environments'
-draft: false
-description: Where should we run our services? are there hidden consts on certain
+subtitle: Where should we run our services? are there hidden consts on certain practices?
+coverImageUrl: https://www.alvarolorente.dev/img/blog/cicd.png
+publishedAt: '2022-10-10'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/10/delivery-acceleration-environments
+ogTitle: 'Delivery Acceleration: Deployment Environments'
+ogDescription: Where should we run our services? are there hidden consts on certain
   practices?
-authors: alvarolorentedev
+ogImage: https://www.alvarolorente.dev/img/blog/cicd.png
 tags:
-- softwaredevelopment
-- programming
-- productivity
-- devops
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/10/delivery-acceleration-environments
-cover_image: https://www.alvarolorente.dev/img/blog/cicd.png
-series: Accelerate Continious Integration & Delivery Practices
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: programming
+  slug: programming
+- name: productivity
+  slug: productivity
+- name: devops
+  slug: devops
 ---
-
 Our services need to run somewhere, so our users can access it. It's a very common practices to have multiple environments like dev, staging, and prod. Is this actually a good practices?
 
 <!-- truncate -->

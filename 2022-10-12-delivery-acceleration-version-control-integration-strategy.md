@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: Version Control Integration Strategy'
-authors: alvarolorentedev
-draft: false
-description: How do you integrate code in the team matters, it will directly affect
+subtitle: How do you integrate code in the team matters, it will directly affect the
+  rest of your architecture and practices like we have seen in previous chapters
+coverImageUrl: https://www.alvarolorente.dev/img/blog/trunk.png
+publishedAt: '2022-10-12'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/12/delivery-acceleration-version-control-integration-strategy
+ogTitle: 'Delivery Acceleration: Version Control Integration Strategy'
+ogDescription: How do you integrate code in the team matters, it will directly affect
   the rest of your architecture and practices like we have seen in previous chapters
+ogImage: https://www.alvarolorente.dev/img/blog/trunk.png
 tags:
-- productivity
-- devops
-- programming
-- softwaredevelopment
-canonical_url: https://www.alvarolorente.dev/blog/2022/10/12/delivery-acceleration-version-control-integration-strategy
-cover_image: https://www.alvarolorente.dev/img/blog/trunk.png
-series: Accelerate Continious Integration & Delivery Practices
+- name: productivity
+  slug: productivity
+- name: devops
+  slug: devops
+- name: programming
+  slug: programming
+- name: softwaredevelopment
+  slug: softwaredevelopment
 ---
-
 I have already written some [other post](https://www.alvarolorente.dev/blog/2022/08/08/stop-prs) on this topic. I will go straight to the point on comparing Git Flow (a [legacy strategy](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) that most companies use) and Trunk-Based Development.
 
 <!-- truncate -->

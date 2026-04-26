@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: Parallel Changes Strategy'
-authors: alvarolorentedev
-draft: false
-description: Code evolve and changes. Making sure we don't break things in a continuous
+subtitle: Code evolve and changes. Making sure we don't break things in a continuous
   deployment environment.
+coverImageUrl: https://www.alvarolorente.dev/img/blog/expand_contract.jpeg
+publishedAt: '2022-10-14'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/14/delivery-acceleration-parallel-changes-strategy
+ogTitle: 'Delivery Acceleration: Parallel Changes Strategy'
+ogDescription: Code evolve and changes. Making sure we don't break things in a continuous
+  deployment environment.
+ogImage: https://www.alvarolorente.dev/img/blog/expand_contract.jpeg
 tags:
-- softwaredevelopment
-- programming
-- devops
-- productivity
-canonical_url: https://www.alvarolorente.dev/blog/2022/10/14/delivery-acceleration-parallel-changes-strategy
-cover_image: https://www.alvarolorente.dev/img/blog/expand_contract.jpeg
-series: Accelerate Continious Integration & Delivery Practices
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: programming
+  slug: programming
+- name: devops
+  slug: devops
+- name: productivity
+  slug: productivity
 ---
-
 As we develop a product over time, changes need to be made as we need to accommodate new functionality. As most of our systems don't run isolated, and we have clients that used them (ex. public API), We have to keep compatibility at least on a temporary basis. How do we achieve this?
 
 <!-- truncate -->

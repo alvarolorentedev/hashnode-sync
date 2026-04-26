@@ -1,21 +1,24 @@
 ---
-published: true
-title: "The future of teams: Crossfuctional & T-Shaped"
-draft: false
-description:
-  Team structure matters, how can we enable teams to be more productive
+title: 'The future of teams: Crossfuctional & T-Shaped'
+subtitle: Team structure matters, how can we enable teams to be more productive &
+  independent
+coverImageUrl: https://www.alvarolorente.dev/img/blog/t-shapped-cross-functional-tshapped-crossfunctional-drawio.png
+publishedAt: '2022-09-13'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/13/the-future-of-teams-crossfunctional-and-t-shaped
+ogTitle: 'The future of teams: Crossfuctional & T-Shaped'
+ogDescription: Team structure matters, how can we enable teams to be more productive
   & independent
-authors: alvarolorentedev
+ogImage: https://www.alvarolorente.dev/img/blog/t-shapped-cross-functional-tshapped-crossfunctional-drawio.png
 tags:
-  - softwaredevelopment
-  - architecture
-  - technology
-  - productivity
-series: What makes high-performing teams
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/13/the-future-of-teams-crossfunctional-and-t-shaped
-cover_image: https://www.alvarolorente.dev/img/blog/t-shapped-cross-functional-tshapped-crossfunctional-drawio.png
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: architecture
+  slug: architecture
+- name: technology
+  slug: technology
+- name: productivity
+  slug: productivity
 ---
-
 In software development, over the last years we always talk about on cross-functional teams, as a good split of responsibilities to provide autonomy in teams. What does that mean? Why is this so? And what does it look like?
 
 <!-- truncate -->

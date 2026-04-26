@@ -1,16 +1,18 @@
 ---
-published: true
-title: 'Are We Providing Feedback or Something Else'
-description: 'Feedback is often called a gift, and indeed it''s a powerful tool for improving our behaviors. This article won''t cover how to provide feedback or various...'
-authors: alvarolorentedev
+title: Are We Providing Feedback or Something Else
+subtitle: Feedback is often called a gift, and indeed it's a powerful tool for improving
+  our behaviors. This article won't cover how to provide feedback or various...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/a2b982ea-1b47-4abe-a1b4-13528921cc89_1531x652.png
+publishedAt: '2025-05-13'
+originalArticleURL: https://theengineeringtax.com/p/are-we-providing-feedback-or-something
+ogTitle: Are We Providing Feedback or Something Else
+ogDescription: Feedback is often called a gift, and indeed it's a powerful tool for
+  improving our behaviors. This article won't cover how to provide feedback or various...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/a2b982ea-1b47-4abe-a1b4-13528921cc89_1531x652.png
 tags:
-- substack
-draft: false
-series: ''
-canonical_url: https://theengineeringtax.com/p/are-we-providing-feedback-or-something
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/a2b982ea-1b47-4abe-a1b4-13528921cc89_1531x652.png
+- name: substack
+  slug: substack
 ---
-
 Feedback is often called a gift, and indeed it's a powerful tool for improving our behaviors. This article won't cover how to provide feedback or various feedback methods, as these topics have been extensively covered elsewhere. Instead, I want to explore a key question: are we truly providing feedback when we claim to be?
 
 <!-- truncate -->

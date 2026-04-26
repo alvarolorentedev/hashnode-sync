@@ -1,16 +1,14 @@
 ---
-published: true
-title: "Superstar vs Rockstar Engineers"
-description: "Have you noticed a broad spectrum of aspirations among your team members?"
-authors: alvarolorentedev
+title: Superstar vs Rockstar Engineers
+subtitle: Have you noticed a broad spectrum of aspirations among your team members?
+publishedAt: '2024-06-13'
+originalArticleURL: https://theengineeringtax.com/p/superstar-vs-rockstar-engineers
+ogTitle: Superstar vs Rockstar Engineers
+ogDescription: Have you noticed a broad spectrum of aspirations among your team members?
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/superstar-vs-rockstar-engineers
-cover_image:
+- name: substack
+  slug: substack
 ---
-
 Have you noticed a broad spectrum of aspirations among your team members?
 
 <!-- truncate -->

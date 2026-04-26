@@ -1,20 +1,23 @@
 ---
-published: true
 title: Common mistakes when splitting the monolith
-draft: false
-description: A set of the most common mistakes when splitting your monolith into microservices
-authors: alvarolorentedev
+subtitle: A set of the most common mistakes when splitting your monolith into microservices
+coverImageUrl: https://user-images.githubusercontent.com/3071208/188307797-7c30c8cb-bff7-4755-822b-7cf469cba372.JPG
+publishedAt: '2022-09-04'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/04/common-mistakes-when-splitting-the-monolith
+ogTitle: Common mistakes when splitting the monolith
+ogDescription: A set of the most common mistakes when splitting your monolith into
+  microservices
+ogImage: https://user-images.githubusercontent.com/3071208/188307797-7c30c8cb-bff7-4755-822b-7cf469cba372.JPG
 tags:
-- api
-- microservices
-- programming
-- architecture
-series: The journey from the monolith to microservices
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/04/common-mistakes-when-splitting-the-monolith
-cover_image: https://user-images.githubusercontent.com/3071208/188307797-7c30c8cb-bff7-4755-822b-7cf469cba372.JPG
+- name: api
+  slug: api
+- name: microservices
+  slug: microservices
+- name: programming
+  slug: programming
+- name: architecture
+  slug: architecture
 ---
-
-
 <!-- truncate -->
 
 ## The Monolith

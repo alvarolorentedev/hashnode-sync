@@ -1,20 +1,24 @@
 ---
-published: true
 title: TDD is not called TDT for a reason
-authors: alvarolorentedev
-draft: false
-description: 'When people elaborate on TDD they seem to stay focused on the first
+subtitle: 'When people elaborate on TDD they seem to stay focused on the first letter
+  but miss the focus of the other two letters. '
+coverImageUrl: https://www.alvarolorente.dev/img/blog/tdd.png
+publishedAt: '2022-11-24'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/11/24/tdd-is-not-called-tdt-for-a-reason
+ogTitle: TDD is not called TDT for a reason
+ogDescription: 'When people elaborate on TDD they seem to stay focused on the first
   letter but miss the focus of the other two letters. '
+ogImage: https://www.alvarolorente.dev/img/blog/tdd.png
 tags:
-- webdev
-- testing
-- architecture
-- programming
-canonical_url: https://www.alvarolorente.dev/blog/2022/11/24/tdd-is-not-called-tdt-for-a-reason
-cover_image: https://www.alvarolorente.dev/img/blog/tdd.png
-series: ''
+- name: webdev
+  slug: webdev
+- name: testing
+  slug: testing
+- name: architecture
+  slug: architecture
+- name: programming
+  slug: programming
 ---
-
 I have observed quite a few articles lately that elaborate on issues with TDD. Nevertheless, they focused on the first letter but miss the focus of the other two letters.
 
 <!-- truncate -->

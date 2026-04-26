@@ -1,18 +1,19 @@
 ---
-published: true
 title: Replace Docker Desktop with Podman in OSX
-authors: alvarolorentedev
+subtitle: a how to tutorial migrate from docker desktop to podman in OSX
+coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/docker-desktop.png
+publishedAt: '2023-06-30'
+ogTitle: Replace Docker Desktop with Podman in OSX
+ogDescription: a how to tutorial migrate from docker desktop to podman in OSX
+ogImage: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/docker-desktop.png
 tags:
-- devops
-- docker
-- softwaredevelopment
-description: a how to tutorial migrate from docker desktop to podman in OSX
-draft: false
-cover_image: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/docker-desktop.png
-series: OSX How To...
+- name: devops
+  slug: devops
+- name: docker
+  slug: docker
+- name: softwaredevelopment
+  slug: softwaredevelopment
 ---
-
-
 <!-- truncate -->
 
 ## Why would I do this?

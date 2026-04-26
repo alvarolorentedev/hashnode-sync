@@ -1,17 +1,21 @@
 ---
-published: true
 title: 'Continious Delivery Bootcamp: Test Driven Development'
-authors: alvarolorentedev
+subtitle: Learn how to get things fast into production with good quality
+coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/copy-of-continious.png
+publishedAt: '2023-04-13'
+originalArticleURL: https://www.alvarolorente.dev/blog/2023/04/13/continious-delivery-bootcamp-test-driven-development
+ogTitle: 'Continious Delivery Bootcamp: Test Driven Development'
+ogDescription: Learn how to get things fast into production with good quality
+ogImage: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/copy-of-continious.png
 tags:
-- programming
-- productivity
-- devops
-- development
-description: Learn how to get things fast into production with good quality
-draft: false
-cover_image: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/copy-of-continious.png
-canonical_url: https://www.alvarolorente.dev/blog/2023/04/13/continious-delivery-bootcamp-test-driven-development
-series: Continuous Delivery Bootcamp
+- name: programming
+  slug: programming
+- name: productivity
+  slug: productivity
+- name: devops
+  slug: devops
+- name: development
+  slug: development
 ---
 # Context
 

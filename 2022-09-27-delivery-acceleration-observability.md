@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: Observability'
-draft: false
-description: When runing services in production the most important thing is to understand
+subtitle: When runing services in production the most important thing is to understand
   the health of it
-authors: alvarolorentedev
+coverImageUrl: https://www.alvarolorente.dev/img/blog/no_alarms.png
+publishedAt: '2022-09-27'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/27/delivery-acceleration-observability
+ogTitle: 'Delivery Acceleration: Observability'
+ogDescription: When runing services in production the most important thing is to understand
+  the health of it
+ogImage: https://www.alvarolorente.dev/img/blog/no_alarms.png
 tags:
-- softwaredevelopment
-- programming
-- devops
-- productivity
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/27/delivery-acceleration-observability
-cover_image: https://www.alvarolorente.dev/img/blog/no_alarms.png
-series: Accelerate Continious Integration & Delivery Practices
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: programming
+  slug: programming
+- name: devops
+  slug: devops
+- name: productivity
+  slug: productivity
 ---
-
 When we talk about observability, we talk about:
 
 > Capability of developers to understand the health and status of their application.

@@ -1,15 +1,18 @@
 ---
-published: true
 title: 'Double-edge Microservices: Resource VS Process'
-description: Is there a good way and a bad way of splitting microservices
-authors: alvarolorentedev
+subtitle: Is there a good way and a bad way of splitting microservices
+publishedAt: '2022-08-02'
+ogTitle: 'Double-edge Microservices: Resource VS Process'
+ogDescription: Is there a good way and a bad way of splitting microservices
 tags:
-- webdev
-- api
-- programming
-- architecture
-draft: true
-series: microservices a double-edged sword
+- name: webdev
+  slug: webdev
+- name: api
+  slug: api
+- name: programming
+  slug: programming
+- name: architecture
+  slug: architecture
 ---
 During the last decade micro-services have been taking traction in the development world. Nevertheless moving from a monolithic view to a more self-served set of pieces is not an easy mental migration.
 I have seen in my experience two different approaches with two very different outcomes. One is based on resources and the other one is based on process.

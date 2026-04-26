@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: DevOps Mentality & Practices'
-draft: false
-description: When we run services in production, mentality can make or break our intent
+subtitle: When we run services in production, mentality can make or break our intent
   to move towards real CI/CD
-authors: alvarolorentedev
+coverImageUrl: https://www.alvarolorente.dev/img/blog/run_it.jpg
+publishedAt: '2022-09-25'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/25/delivery-acceleration-devops-attitudes
+ogTitle: 'Delivery Acceleration: DevOps Mentality & Practices'
+ogDescription: When we run services in production, mentality can make or break our
+  intent to move towards real CI/CD
+ogImage: https://www.alvarolorente.dev/img/blog/run_it.jpg
 tags:
-- productivity
-- devops
-- softwaredevelopment
-- programming
-series: Accelerate Continious Integration & Delivery Practices
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/25/delivery-acceleration-devops-attitudes
-cover_image: https://www.alvarolorente.dev/img/blog/run_it.jpg
+- name: productivity
+  slug: productivity
+- name: devops
+  slug: devops
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: programming
+  slug: programming
 ---
-
 When we start our journey towards continuous integration & delivery, the first thing to take in count is the mentality. There are a few of them that will make or break our intent. Let's see the most important and also some practices.
 
 <!-- truncate -->

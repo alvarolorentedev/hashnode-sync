@@ -1,19 +1,22 @@
 ---
-published: true
 title: Patterns to avoiding microlithic microservices
-draft: false
-description: how can we decouple services to avoid some common pitfalls
-authors: alvarolorentedev
+subtitle: how can we decouple services to avoid some common pitfalls
+coverImageUrl: https://www.alvarolorente.dev/img/blog/microliths.jpg
+publishedAt: '2022-09-05'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/05/patterns-to-avoiding-microlithic-microservices
+ogTitle: Patterns to avoiding microlithic microservices
+ogDescription: how can we decouple services to avoid some common pitfalls
+ogImage: https://www.alvarolorente.dev/img/blog/microliths.jpg
 tags:
-- api
-- microservices
-- programming
-- architecture
-series: The journey from the monolith to microservices
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/05/patterns-to-avoiding-microlithic-microservices
-cover_image: https://www.alvarolorente.dev/img/blog/microliths.jpg
+- name: api
+  slug: api
+- name: microservices
+  slug: microservices
+- name: programming
+  slug: programming
+- name: architecture
+  slug: architecture
 ---
-
 On the previous installment of this series, we discussed the pitfalls that could happen when we split a monolith into microservices. In specific, we talked about creating what are called microliths.  
 ![](https://www.alvarolorente.dev/img/blog/microliths.jpg)
 

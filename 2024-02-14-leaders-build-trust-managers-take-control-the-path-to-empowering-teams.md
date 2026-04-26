@@ -1,19 +1,22 @@
 ---
-published: true
 title: 'Leaders Build Trust, Managers Take Control: The Path to Empowering Teams'
-authors: alvarolorentedev
+subtitle: Are leaders and managers important for organizational success?
+coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/leader-manager.jpeg
+publishedAt: '2024-02-14'
+originalArticleURL: https://scalinghorizons.substack.com/p/leaders-build-trust-managers-take
+ogTitle: 'Leaders Build Trust, Managers Take Control: The Path to Empowering Teams'
+ogDescription: Are leaders and managers important for organizational success?
+ogImage: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/leader-manager.jpeg
 tags:
-- productivity
-- motivation
-- career
-- business
-description: Are leaders and managers important for organizational success?
-draft: false
-cover_image: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/leader-manager.jpeg
-canonical_url: https://scalinghorizons.substack.com/p/leaders-build-trust-managers-take
-series: Engineering Strategy 101
+- name: productivity
+  slug: productivity
+- name: motivation
+  slug: motivation
+- name: career
+  slug: career
+- name: business
+  slug: business
 ---
-
 > TL;DR;
 > 
 > In essence, leadership and management are two sides of the same coin, each playing a critical role in guiding teams and individuals towards achieving their potential and realizing organizational objectives. By building trust and taking control in measure, you empower your teams to innovate, perform, and thrive in an ever-evolving landscape.

@@ -1,16 +1,18 @@
 ---
-published: true
-title: "Rethinking Technical Tasks Define All Tasks As User Value"
-description: "Have you ever considered the various types of tasks within a team? Why do we often separate tasks into 'technical' and 'product' categories? Is this..."
-authors: alvarolorentedev
+title: Rethinking Technical Tasks Define All Tasks As User Value
+subtitle: Have you ever considered the various types of tasks within a team? Why do
+  we often separate tasks into 'technical' and 'product' categories? Is this...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/c0414364-e7a8-40cc-96bc-5efa20d80151_1080x1080.jpeg
+publishedAt: '2024-07-31'
+originalArticleURL: https://theengineeringtax.com/p/rethinking-technical-tasks-define
+ogTitle: Rethinking Technical Tasks Define All Tasks As User Value
+ogDescription: Have you ever considered the various types of tasks within a team?
+  Why do we often separate tasks into 'technical' and 'product' categories? Is this...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/c0414364-e7a8-40cc-96bc-5efa20d80151_1080x1080.jpeg
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/rethinking-technical-tasks-define
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/c0414364-e7a8-40cc-96bc-5efa20d80151_1080x1080.jpeg
+- name: substack
+  slug: substack
 ---
-
 Have you ever considered the various types of tasks within a team? Why do we often separate tasks into 'technical' and 'product' categories? Is this division a reality, or is it simply a reflection of our difficulty in articulating the value of non-functional behavior?
 
 <!-- truncate -->

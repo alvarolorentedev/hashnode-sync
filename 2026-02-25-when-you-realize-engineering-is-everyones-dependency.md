@@ -1,19 +1,24 @@
 ---
-published: true
-title: 'When You Realize Engineering Is Everyones Dependency'
-description: 'In technology-driven organizations, engineering is not merely a delivery function — it is the execution engine of the business. Strategic ambition, product...'
-authors: alvarolorentedev
+title: When You Realize Engineering Is Everyones Dependency
+subtitle: In technology-driven organizations, engineering is not merely a delivery
+  function — it is the execution engine of the business. Strategic ambition, product...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/72fe64c0-2ab0-4077-85eb-a01ff5d90b0c_1536x1024.png
+publishedAt: '2026-02-25'
+originalArticleURL: https://theengineeringtax.com/p/when-you-realize-engineering-is-everyones
+ogTitle: When You Realize Engineering Is Everyones Dependency
+ogDescription: In technology-driven organizations, engineering is not merely a delivery
+  function — it is the execution engine of the business. Strategic ambition, product...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/72fe64c0-2ab0-4077-85eb-a01ff5d90b0c_1536x1024.png
 tags:
-- software
-- devops
-- career
-- systemdesign
-draft: false
-series: ''
-canonical_url: https://theengineeringtax.com/p/when-you-realize-engineering-is-everyones
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/72fe64c0-2ab0-4077-85eb-a01ff5d90b0c_1536x1024.png
+- name: software
+  slug: software
+- name: devops
+  slug: devops
+- name: career
+  slug: career
+- name: systemdesign
+  slug: systemdesign
 ---
-
 ## Introduction
 
 In technology-driven organizations, engineering is not merely a delivery function — it is the execution engine of the business. Strategic ambition, product vision, commercial commitments, regulatory obligations, and operational reliability ultimately depend on engineering capacity.

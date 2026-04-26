@@ -1,17 +1,21 @@
 ---
-published: true
 title: Functional Programming With Kotlin Bootcamp - Intro
-authors: alvarolorentedev
+subtitle: Learn how to do functional programming with kotlin
+coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/fpusing-kotlin.png
+publishedAt: '2023-04-24'
+originalArticleURL: https://www.alvarolorente.dev/blog/2023/04/24/functional-programming-with-kotlin-bootcamp-intro
+ogTitle: Functional Programming With Kotlin Bootcamp - Intro
+ogDescription: Learn how to do functional programming with kotlin
+ogImage: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/fpusing-kotlin.png
 tags:
-- programming
-- development
-- kotlin
-- functional
-description: Learn how to do functional programming with kotlin
-draft: false
-cover_image: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/fpusing-kotlin.png
-canonical_url: https://www.alvarolorente.dev/blog/2023/04/24/functional-programming-with-kotlin-bootcamp-intro
-series: Functional Programming With Kotlin
+- name: programming
+  slug: programming
+- name: development
+  slug: development
+- name: kotlin
+  slug: kotlin
+- name: functional
+  slug: functional
 ---
 # Context
 

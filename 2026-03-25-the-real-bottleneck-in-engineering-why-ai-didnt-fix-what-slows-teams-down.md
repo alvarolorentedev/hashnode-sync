@@ -1,19 +1,22 @@
 ---
-published: true
-title: "The Real Bottleneck in Engineering Why AI Didnt Fix What Slows Teams Down"
-description: "For years, we optimized engineering speed."
-authors: alvarolorentedev
+title: The Real Bottleneck in Engineering Why AI Didnt Fix What Slows Teams Down
+subtitle: For years, we optimized engineering speed.
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/3b841a9f-4522-458d-9fa7-5c386769f628_1536x1024.png
+publishedAt: '2026-03-25'
+originalArticleURL: https://theengineeringtax.com/p/the-real-bottleneck-in-engineering
+ogTitle: The Real Bottleneck in Engineering Why AI Didnt Fix What Slows Teams Down
+ogDescription: For years, we optimized engineering speed.
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/3b841a9f-4522-458d-9fa7-5c386769f628_1536x1024.png
 tags:
-  - ai
-  - devops
-  - productivity
-  - software
-draft: false
-series: Engineering After AI
-canonical_url: https://theengineeringtax.com/p/the-real-bottleneck-in-engineering
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/3b841a9f-4522-458d-9fa7-5c386769f628_1536x1024.png
+- name: ai
+  slug: ai
+- name: devops
+  slug: devops
+- name: productivity
+  slug: productivity
+- name: software
+  slug: software
 ---
-
 For years, we optimized engineering speed.
 
 <!-- truncate -->

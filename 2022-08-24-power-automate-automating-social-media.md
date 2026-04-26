@@ -1,20 +1,22 @@
 ---
-published: true
 title: 'Automate Anything: Power Automate + Trello + IFTTT'
-description: how to automate tedius tasks with low code platforms
-authors: alvarolorentedev
+subtitle: how to automate tedius tasks with low code platforms
+coverImageUrl: https://github.com/alvarolorentedev/diagrams/blob/main/automate.drawio.png?raw=true
+publishedAt: '2022-08-24'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/24/power-automate-automating-social-media
+ogTitle: 'Automate Anything: Power Automate + Trello + IFTTT'
+ogDescription: how to automate tedius tasks with low code platforms
+ogImage: https://github.com/alvarolorentedev/diagrams/blob/main/automate.drawio.png?raw=true
 tags:
-- lowcode
-- serverless
-- showdev
-- productivity
-draft: false
-series: ''
-canonical_url: https://www.alvarolorente.dev/blog/2022/08/24/power-automate-automating-social-media
-cover_image: https://github.com/alvarolorentedev/diagrams/blob/main/automate.drawio.png?raw=true
+- name: lowcode
+  slug: lowcode
+- name: serverless
+  slug: serverless
+- name: showdev
+  slug: showdev
+- name: productivity
+  slug: productivity
 ---
-
-
 <!-- truncate -->
 
 ## Video

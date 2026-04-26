@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Double-edge Microservices: APIs the New Singleton'
-description: In the current world of development we solve all with APIs, is it becoming
+subtitle: In the current world of development we solve all with APIs, is it becoming
   an overused practice?
-authors: alvarolorentedev
+coverImageUrl: https://www.alvarolorente.dev/img/blog/captura-de-pantalla-2022-12-19-a-las-17-16-39.png
+publishedAt: '2022-12-19'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/12/19/api-singleton
+ogTitle: 'Double-edge Microservices: APIs the New Singleton'
+ogDescription: In the current world of development we solve all with APIs, is it becoming
+  an overused practice?
+ogImage: https://www.alvarolorente.dev/img/blog/captura-de-pantalla-2022-12-19-a-las-17-16-39.png
 tags:
-- webdev
-- api
-- architecture
-- programming
-draft: false
-series: microservices a double-edged sword
-cover_image: https://www.alvarolorente.dev/img/blog/captura-de-pantalla-2022-12-19-a-las-17-16-39.png
-canonical_url: https://www.alvarolorente.dev/blog/2022/12/19/api-singleton
+- name: webdev
+  slug: webdev
+- name: api
+  slug: api
+- name: architecture
+  slug: architecture
+- name: programming
+  slug: programming
 ---
-
 The singleton pattern has got a bad reputation over the years due to be widely overused in the incorrect use cases. With the proliferation of microservices, **have APIs become the new singleton?**
 
 <!-- truncate -->

@@ -1,19 +1,20 @@
 ---
-published: true
 title: 'Commiting Like a Pro in NodeJs: The hooks'
-description: Using git hooks to make sure your commits do what you expect
-authors: alvarolorentedev
+subtitle: Using git hooks to make sure your commits do what you expect
+publishedAt: '2022-08-08'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/08/commiting-like-pro-part-1
+ogTitle: 'Commiting Like a Pro in NodeJs: The hooks'
+ogDescription: Using git hooks to make sure your commits do what you expect
 tags:
-- agile
-- webdev
-- programming
-- productivity
-draft: false
-series: commiting Like a Pro in NodeJs
-canonical_url: https://www.alvarolorente.dev/blog/2022/08/08/commiting-like-pro-part-1
+- name: agile
+  slug: agile
+- name: webdev
+  slug: webdev
+- name: programming
+  slug: programming
+- name: productivity
+  slug: productivity
 ---
-
-
 <!-- truncate -->
 
 ## What & Why Git hooks?

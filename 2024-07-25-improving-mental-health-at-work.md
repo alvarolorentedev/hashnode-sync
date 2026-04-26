@@ -1,16 +1,16 @@
 ---
-published: true
-title: "Improving Mental Health at Work"
-description: "Last week, we discussed the importance of managing 100% utilization within the team to maintain their well-being. As individuals, we each react differently..."
-authors: alvarolorentedev
+title: Improving Mental Health at Work
+subtitle: Last week, we discussed the importance of managing 100% utilization within
+  the team to maintain their well-being. As individuals, we each react differently...
+publishedAt: '2024-07-25'
+originalArticleURL: https://theengineeringtax.com/p/improving-mental-health-at-work
+ogTitle: Improving Mental Health at Work
+ogDescription: Last week, we discussed the importance of managing 100% utilization
+  within the team to maintain their well-being. As individuals, we each react differently...
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/improving-mental-health-at-work
-cover_image:
+- name: substack
+  slug: substack
 ---
-
 Last week, we discussed the importance of managing 100% utilization within the team to maintain their well-being. As individuals, we each react differently to experiences, which can have long-term consequences.
 
 <!-- truncate -->

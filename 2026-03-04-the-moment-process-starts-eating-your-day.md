@@ -1,18 +1,22 @@
 ---
-published: true
-title: 'The Moment Process Starts Eating Your Day'
-description: 'As organizations scale, governance expands. Reporting structures multiply, compliance requirements mature, alignment rituals increase, and cross-functional...'
-authors: alvarolorentedev
+title: The Moment Process Starts Eating Your Day
+subtitle: As organizations scale, governance expands. Reporting structures multiply,
+  compliance requirements mature, alignment rituals increase, and cross-functional...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/225eaa5e-9a9d-4a4c-853f-09eef91395d4_1024x1536.png
+publishedAt: '2026-03-04'
+originalArticleURL: https://theengineeringtax.com/p/the-moment-process-starts-eating
+ogTitle: The Moment Process Starts Eating Your Day
+ogDescription: As organizations scale, governance expands. Reporting structures multiply,
+  compliance requirements mature, alignment rituals increase, and cross-functional...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/225eaa5e-9a9d-4a4c-853f-09eef91395d4_1024x1536.png
 tags:
-- productivity
-- software
-- career
-draft: false
-series: ''
-canonical_url: https://theengineeringtax.com/p/the-moment-process-starts-eating
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/225eaa5e-9a9d-4a4c-853f-09eef91395d4_1024x1536.png
+- name: productivity
+  slug: productivity
+- name: software
+  slug: software
+- name: career
+  slug: career
 ---
-
 ## Introduction
 
 As organizations scale, governance expands. Reporting structures multiply, compliance requirements mature, alignment rituals increase, and cross-functional touchpoints become more frequent. None of this is inherently problematic. In fact, process often emerges to reduce chaos and increase predictability.

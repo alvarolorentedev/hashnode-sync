@@ -1,20 +1,22 @@
 ---
-published: true
 title: 'Delivery Acceleration: Testing & Validation'
-draft: false
-description: is testing enough to make sure our code works?
-authors:
-- alvarolorentedev
+subtitle: is testing enough to make sure our code works?
+coverImageUrl: https://www.alvarolorente.dev/img/blog/testing.jpg
+publishedAt: '2022-10-11'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/11/delivery-acceleration-testing-validation
+ogTitle: 'Delivery Acceleration: Testing & Validation'
+ogDescription: is testing enough to make sure our code works?
+ogImage: https://www.alvarolorente.dev/img/blog/testing.jpg
 tags:
-- softwaredevelopment
-- programming
-- devops
-- productivity
-canonical_url: https://www.alvarolorente.dev/blog/2022/10/11/delivery-acceleration-testing-validation
-cover_image: https://www.alvarolorente.dev/img/blog/testing.jpg
-series: Accelerate Continious Integration & Delivery Practices
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: programming
+  slug: programming
+- name: devops
+  slug: devops
+- name: productivity
+  slug: productivity
 ---
-
 Before we enable code for our clients, we need to test and validate it does what is expected. This could be an entire series of its own (please let me know if you want one), so I will keep it on a high level.
 
 <!-- truncate -->

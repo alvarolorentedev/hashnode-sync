@@ -1,20 +1,24 @@
 ---
-published: true
 title: 'Delivery Acceleration: Intro'
-draft: false
-description: Why do teams perform differently and what are the tools & practices some
+subtitle: Why do teams perform differently and what are the tools & practices some
   team use to differentiate themselves
-authors: alvarolorentedev
+coverImageUrl: https://www.alvarolorente.dev/img/blog/key_metrics.png
+publishedAt: '2022-09-24'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/24/devilery-acceleration-intro
+ogTitle: 'Delivery Acceleration: Intro'
+ogDescription: Why do teams perform differently and what are the tools & practices
+  some team use to differentiate themselves
+ogImage: https://www.alvarolorente.dev/img/blog/key_metrics.png
 tags:
-- programming
-- softwaredevelopment
-- devops
-- productivity
-series: Accelerate Continious Integration & Delivery Practices
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/24/devilery-acceleration-intro
-cover_image: https://www.alvarolorente.dev/img/blog/key_metrics.png
+- name: programming
+  slug: programming
+- name: softwaredevelopment
+  slug: softwaredevelopment
+- name: devops
+  slug: devops
+- name: productivity
+  slug: productivity
 ---
-
 This is a series I am really looking forward to writing. I have been doing this presentation for the last 3 years in multiple places.
 
 <!-- truncate -->

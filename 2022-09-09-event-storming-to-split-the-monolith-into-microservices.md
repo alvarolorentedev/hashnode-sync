@@ -1,20 +1,24 @@
 ---
-published: true
 title: Event Storming to split Monolith into Microservices
-draft: false
-description: how can we define what is the scope of a service, event storming is here
+subtitle: how can we define what is the scope of a service, event storming is here
   to help us
-authors: alvarolorentedev
+coverImageUrl: https://www.alvarolorente.dev/img/blog/event-storming.png
+publishedAt: '2022-09-09'
+originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/09/event-storming-to-split-the-monolith-into-microservices
+ogTitle: Event Storming to split Monolith into Microservices
+ogDescription: how can we define what is the scope of a service, event storming is
+  here to help us
+ogImage: https://www.alvarolorente.dev/img/blog/event-storming.png
 tags:
-- api
-- microservices
-- programming
-- architecture
-series: The journey from the monolith to microservices
-canonical_url: https://www.alvarolorente.dev/blog/2022/09/09/event-storming-to-split-the-monolith-into-microservices
-cover_image: https://www.alvarolorente.dev/img/blog/event-storming.png
+- name: api
+  slug: api
+- name: microservices
+  slug: microservices
+- name: programming
+  slug: programming
+- name: architecture
+  slug: architecture
 ---
-
 On our previous installments, we discussed the smells that can happen when splitting microservices, and the strategies that exist to make them as independent as possible. But how do we define boundaries? How do we define the process that our microservice is in charge off?
 
 <!-- truncate -->

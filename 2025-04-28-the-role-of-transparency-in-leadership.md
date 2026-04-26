@@ -1,16 +1,18 @@
 ---
-published: true
-title: "The Role of Transparency in Leadership"
-description: "As someone who has spent years navigating the complexities of engineering leadership, I can tell you that transparency is one of the most critical elements..."
-authors: alvarolorentedev
+title: The Role of Transparency in Leadership
+subtitle: As someone who has spent years navigating the complexities of engineering
+  leadership, I can tell you that transparency is one of the most critical elements...
+coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/00100645-f92a-437c-8197-7e45b8753a18_2000x2000.png
+publishedAt: '2025-04-28'
+originalArticleURL: https://theengineeringtax.com/p/the-role-of-transparency-in-leadership
+ogTitle: The Role of Transparency in Leadership
+ogDescription: As someone who has spent years navigating the complexities of engineering
+  leadership, I can tell you that transparency is one of the most critical elements...
+ogImage: https://substack-post-media.s3.amazonaws.com/public/images/00100645-f92a-437c-8197-7e45b8753a18_2000x2000.png
 tags:
-  - substack
-draft: false
-series: Engineering Strategy 101
-canonical_url: https://theengineeringtax.com/p/the-role-of-transparency-in-leadership
-cover_image: https://substack-post-media.s3.amazonaws.com/public/images/00100645-f92a-437c-8197-7e45b8753a18_2000x2000.png
+- name: substack
+  slug: substack
 ---
-
 As someone who has spent years navigating the complexities of engineering leadership, I can tell you that transparency is one of the most critical elements of effective leadership. If you're aspiring to take on a leadership role, understanding the importance of transparency and how it contributes to a healthy chain of command is essential.
 
 <!-- truncate -->
