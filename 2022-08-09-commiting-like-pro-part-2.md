@@ -2,7 +2,7 @@
 title: 'Commiting Like a Pro in NodeJs: The Message'
 subtitle: Using tools to create descriptive commits
 coverImageUrl: https://commitizen-tools.github.io/commitizen/images/demo.gif
-publishedAt: '2022-08-09'
+publishedAt: '2022-08-09T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/09/commiting-like-pro-part-2
 ogTitle: 'Commiting Like a Pro in NodeJs: The Message'
 ogDescription: Using tools to create descriptive commits

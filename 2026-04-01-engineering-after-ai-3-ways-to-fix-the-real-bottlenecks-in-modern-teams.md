@@ -3,7 +3,7 @@ title: Engineering After AI 3 Ways to Fix the Real Bottlenecks in Modern Teams
 subtitle: Execution is no longer scarce. It has been compressed by years of tooling
   improvements and, more recently, by AI. The cost of producing software continues...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/f5dc4217-8412-4efb-94c4-3971034e8cf0_1536x1024.png
-publishedAt: '2026-04-01'
+publishedAt: '2026-04-01T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/engineering-after-ai-3-ways-to-fix
 ogTitle: Engineering After AI 3 Ways to Fix the Real Bottlenecks in Modern Teams
 ogDescription: Execution is no longer scarce. It has been compressed by years of tooling

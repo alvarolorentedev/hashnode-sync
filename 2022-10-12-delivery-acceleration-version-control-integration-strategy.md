@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: Version Control Integration Strategy'
 subtitle: How do you integrate code in the team matters, it will directly affect the
   rest of your architecture and practices like we have seen in previous chapters
 coverImageUrl: https://www.alvarolorente.dev/img/blog/trunk.png
-publishedAt: '2022-10-12'
+publishedAt: '2022-10-12T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/12/delivery-acceleration-version-control-integration-strategy
 ogTitle: 'Delivery Acceleration: Version Control Integration Strategy'
 ogDescription: How do you integrate code in the team matters, it will directly affect

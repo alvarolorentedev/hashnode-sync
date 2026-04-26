@@ -1,7 +1,7 @@
 ---
 title: Superstar vs Rockstar Engineers
 subtitle: Have you noticed a broad spectrum of aspirations among your team members?
-publishedAt: '2024-06-13'
+publishedAt: '2024-06-13T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/superstar-vs-rockstar-engineers
 ogTitle: Superstar vs Rockstar Engineers
 ogDescription: Have you noticed a broad spectrum of aspirations among your team members?

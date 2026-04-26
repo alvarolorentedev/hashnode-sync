@@ -3,7 +3,7 @@ title: Key Strategies for Building High-Performance Teams in Tech
 subtitle: We all continuously hear about high-performance teams and the importance
   of becoming one. But there is actual no real definition of it. Is it?
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/3eb06d36-fe8c-449a-9220-ac52c0444446_926x272.png
-publishedAt: '2024-06-07'
+publishedAt: '2024-06-07T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/key-strategies-for-building-high
 ogTitle: Key Strategies for Building High-Performance Teams in Tech
 ogDescription: We all continuously hear about high-performance teams and the importance

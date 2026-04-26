@@ -2,7 +2,7 @@
 title: 'Delivery Acceleration: Testing & Validation'
 subtitle: is testing enough to make sure our code works?
 coverImageUrl: https://www.alvarolorente.dev/img/blog/testing.jpg
-publishedAt: '2022-10-11'
+publishedAt: '2022-10-11T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/11/delivery-acceleration-testing-validation
 ogTitle: 'Delivery Acceleration: Testing & Validation'
 ogDescription: is testing enough to make sure our code works?

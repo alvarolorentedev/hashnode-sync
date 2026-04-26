@@ -2,7 +2,7 @@
 title: Clean Architecture Is Dying How AI Is Killing Essential Software Patterns
 subtitle: 'For decades, we repeated a simple idea: code is read more than it is written.'
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/47cff2fb-67dd-4c98-9dea-b0cc08902076_1024x1024.png
-publishedAt: '2026-04-08'
+publishedAt: '2026-04-08T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/clean-architecture-is-dying-how-ai
 ogTitle: Clean Architecture Is Dying How AI Is Killing Essential Software Patterns
 ogDescription: 'For decades, we repeated a simple idea: code is read more than it

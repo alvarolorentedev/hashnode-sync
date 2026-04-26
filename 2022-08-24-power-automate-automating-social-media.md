@@ -2,7 +2,7 @@
 title: 'Automate Anything: Power Automate + Trello + IFTTT'
 subtitle: how to automate tedius tasks with low code platforms
 coverImageUrl: https://github.com/alvarolorentedev/diagrams/blob/main/automate.drawio.png?raw=true
-publishedAt: '2022-08-24'
+publishedAt: '2022-08-24T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/24/power-automate-automating-social-media
 ogTitle: 'Automate Anything: Power Automate + Trello + IFTTT'
 ogDescription: how to automate tedius tasks with low code platforms

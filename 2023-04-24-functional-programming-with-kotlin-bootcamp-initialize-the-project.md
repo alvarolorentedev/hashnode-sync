@@ -2,7 +2,7 @@
 title: Functional Programming With Kotlin Bootcamp - Initialize the Project
 subtitle: Learn how to do functional programming with kotlin
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/fp-with-kotlin-gradle.png
-publishedAt: '2023-04-24'
+publishedAt: '2023-04-24T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2023/04/24/functional-programming-with-kotlin-bootcamp-initialize-the-project
 ogTitle: Functional Programming With Kotlin Bootcamp - Initialize the Project
 ogDescription: Learn how to do functional programming with kotlin

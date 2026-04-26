@@ -1,7 +1,7 @@
 ---
 title: 'Double-edge Microservices: Resource VS Process'
 subtitle: Is there a good way and a bad way of splitting microservices
-publishedAt: '2022-08-02'
+publishedAt: '2022-08-02T00:00:00.000Z'
 ogTitle: 'Double-edge Microservices: Resource VS Process'
 ogDescription: Is there a good way and a bad way of splitting microservices
 tags:

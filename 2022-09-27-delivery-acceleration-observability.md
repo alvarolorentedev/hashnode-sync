@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: Observability'
 subtitle: When runing services in production the most important thing is to understand
   the health of it
 coverImageUrl: https://www.alvarolorente.dev/img/blog/no_alarms.png
-publishedAt: '2022-09-27'
+publishedAt: '2022-09-27T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/27/delivery-acceleration-observability
 ogTitle: 'Delivery Acceleration: Observability'
 ogDescription: When runing services in production the most important thing is to understand

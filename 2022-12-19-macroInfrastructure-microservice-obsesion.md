@@ -3,7 +3,7 @@ title: 'Double-edge Microservices: Macro Infrastructure due to Microservice Obse
 subtitle: Macro Infrastructure due to Microservice Obsession the over-engineering
   of our age
 coverImageUrl: https://www.alvarolorente.dev/img/blog/captura-de-pantalla-2022-12-19-a-las-17-17-49.png
-publishedAt: '2022-12-19'
+publishedAt: '2022-12-19T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/12/19/macroInfrastructure-microservice-obsesion
 ogTitle: 'Double-edge Microservices: Macro Infrastructure due to Microservice Obsession'
 ogDescription: Macro Infrastructure due to Microservice Obsession the over-engineering

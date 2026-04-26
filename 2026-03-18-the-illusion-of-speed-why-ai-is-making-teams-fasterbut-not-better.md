@@ -3,7 +3,7 @@ title: The Illusion of Speed Why AI Is Making Teams Fasterbut Not Better
 subtitle: Two weeks ago, I built an MVP for StrengthsOS in under 12 days. At the same
   time, I started rewriting Octolaunch from scratch. That’s not the interesting part.
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/7ced8e12-6d3c-4e5e-8e87-7e441bfeb383_480x432.png
-publishedAt: '2026-03-18'
+publishedAt: '2026-03-18T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/the-illusion-of-speed-why-ai-is-making
 ogTitle: The Illusion of Speed Why AI Is Making Teams Fasterbut Not Better
 ogDescription: Two weeks ago, I built an MVP for StrengthsOS in under 12 days. At

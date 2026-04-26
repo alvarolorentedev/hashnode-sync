@@ -2,7 +2,7 @@
 title: The Real Bottleneck in Engineering Why AI Didnt Fix What Slows Teams Down
 subtitle: For years, we optimized engineering speed.
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/3b841a9f-4522-458d-9fa7-5c386769f628_1536x1024.png
-publishedAt: '2026-03-25'
+publishedAt: '2026-03-25T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/the-real-bottleneck-in-engineering
 ogTitle: The Real Bottleneck in Engineering Why AI Didnt Fix What Slows Teams Down
 ogDescription: For years, we optimized engineering speed.

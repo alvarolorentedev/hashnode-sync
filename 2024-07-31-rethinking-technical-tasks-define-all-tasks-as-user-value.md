@@ -3,7 +3,7 @@ title: Rethinking Technical Tasks Define All Tasks As User Value
 subtitle: Have you ever considered the various types of tasks within a team? Why do
   we often separate tasks into 'technical' and 'product' categories? Is this...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/c0414364-e7a8-40cc-96bc-5efa20d80151_1080x1080.jpeg
-publishedAt: '2024-07-31'
+publishedAt: '2024-07-31T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/rethinking-technical-tasks-define
 ogTitle: Rethinking Technical Tasks Define All Tasks As User Value
 ogDescription: Have you ever considered the various types of tasks within a team?

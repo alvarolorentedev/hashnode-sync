@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: Parallel Changes Strategy'
 subtitle: Code evolve and changes. Making sure we don't break things in a continuous
   deployment environment.
 coverImageUrl: https://www.alvarolorente.dev/img/blog/expand_contract.jpeg
-publishedAt: '2022-10-14'
+publishedAt: '2022-10-14T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/14/delivery-acceleration-parallel-changes-strategy
 ogTitle: 'Delivery Acceleration: Parallel Changes Strategy'
 ogDescription: Code evolve and changes. Making sure we don't break things in a continuous

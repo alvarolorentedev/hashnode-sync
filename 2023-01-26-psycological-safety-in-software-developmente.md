@@ -3,7 +3,7 @@ title: Psychological safety in software development
 subtitle: 'What are some success factors of high-performing teams and organizations?
   One undoubtedly is the ability to share and exchange without fear or shame '
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/unnamed-1.jpg
-publishedAt: '2023-01-26'
+publishedAt: '2023-01-26T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2023-01-26-psycological-safety-in-software-developmente
 ogTitle: Psychological safety in software development
 ogDescription: 'What are some success factors of high-performing teams and organizations?

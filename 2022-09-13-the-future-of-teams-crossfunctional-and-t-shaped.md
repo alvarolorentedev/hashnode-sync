@@ -3,7 +3,7 @@ title: 'The future of teams: Crossfuctional & T-Shaped'
 subtitle: Team structure matters, how can we enable teams to be more productive &
   independent
 coverImageUrl: https://www.alvarolorente.dev/img/blog/t-shapped-cross-functional-tshapped-crossfunctional-drawio.png
-publishedAt: '2022-09-13'
+publishedAt: '2022-09-13T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/13/the-future-of-teams-crossfunctional-and-t-shaped
 ogTitle: 'The future of teams: Crossfuctional & T-Shaped'
 ogDescription: Team structure matters, how can we enable teams to be more productive

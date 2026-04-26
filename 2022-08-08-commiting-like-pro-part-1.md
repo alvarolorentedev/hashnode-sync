@@ -1,7 +1,7 @@
 ---
 title: 'Commiting Like a Pro in NodeJs: The hooks'
 subtitle: Using git hooks to make sure your commits do what you expect
-publishedAt: '2022-08-08'
+publishedAt: '2022-08-08T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/08/08/commiting-like-pro-part-1
 ogTitle: 'Commiting Like a Pro in NodeJs: The hooks'
 ogDescription: Using git hooks to make sure your commits do what you expect

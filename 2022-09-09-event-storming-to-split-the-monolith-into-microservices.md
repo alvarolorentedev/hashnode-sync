@@ -3,7 +3,7 @@ title: Event Storming to split Monolith into Microservices
 subtitle: how can we define what is the scope of a service, event storming is here
   to help us
 coverImageUrl: https://www.alvarolorente.dev/img/blog/event-storming.png
-publishedAt: '2022-09-09'
+publishedAt: '2022-09-09T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/09/event-storming-to-split-the-monolith-into-microservices
 ogTitle: Event Storming to split Monolith into Microservices
 ogDescription: how can we define what is the scope of a service, event storming is

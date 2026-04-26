@@ -3,7 +3,7 @@ title: Long-Term Team Productivity
 subtitle: It has been almost a year since McKinsey released their developer productivity
   approach. While I fully disagree with their ideas, it highlights the ongoing...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/4fb72926-2d5a-4437-bc54-962a08c49f3e_941x287.png
-publishedAt: '2024-07-17'
+publishedAt: '2024-07-17T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/long-term-team-productivity
 ogTitle: Long-Term Team Productivity
 ogDescription: It has been almost a year since McKinsey released their developer productivity

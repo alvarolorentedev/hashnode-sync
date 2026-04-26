@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: Enabling Features'
 subtitle: How do we roll out features? What are some practices that can save us from
   the big bang release
 coverImageUrl: https://www.alvarolorente.dev/img/blog/toggles.jpeg
-publishedAt: '2022-10-10'
+publishedAt: '2022-10-10T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/10/10/delivery-acceleration-enabling-features
 ogTitle: 'Delivery Acceleration: Enabling Features'
 ogDescription: How do we roll out features? What are some practices that can save

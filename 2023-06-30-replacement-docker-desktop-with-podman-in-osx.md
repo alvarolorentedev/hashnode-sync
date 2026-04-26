@@ -2,7 +2,7 @@
 title: Replace Docker Desktop with Podman in OSX
 subtitle: a how to tutorial migrate from docker desktop to podman in OSX
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/docker-desktop.png
-publishedAt: '2023-06-30'
+publishedAt: '2023-06-30T00:00:00.000Z'
 ogTitle: Replace Docker Desktop with Podman in OSX
 ogDescription: a how to tutorial migrate from docker desktop to podman in OSX
 ogImage: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/docker-desktop.png

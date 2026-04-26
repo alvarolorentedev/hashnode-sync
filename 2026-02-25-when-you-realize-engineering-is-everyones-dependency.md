@@ -3,7 +3,7 @@ title: When You Realize Engineering Is Everyones Dependency
 subtitle: In technology-driven organizations, engineering is not merely a delivery
   function — it is the execution engine of the business. Strategic ambition, product...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/72fe64c0-2ab0-4077-85eb-a01ff5d90b0c_1536x1024.png
-publishedAt: '2026-02-25'
+publishedAt: '2026-02-25T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/when-you-realize-engineering-is-everyones
 ogTitle: When You Realize Engineering Is Everyones Dependency
 ogDescription: In technology-driven organizations, engineering is not merely a delivery

@@ -3,7 +3,7 @@ title: The Moment Process Starts Eating Your Day
 subtitle: As organizations scale, governance expands. Reporting structures multiply,
   compliance requirements mature, alignment rituals increase, and cross-functional...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/225eaa5e-9a9d-4a4c-853f-09eef91395d4_1024x1536.png
-publishedAt: '2026-03-04'
+publishedAt: '2026-03-04T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/the-moment-process-starts-eating
 ogTitle: The Moment Process Starts Eating Your Day
 ogDescription: As organizations scale, governance expands. Reporting structures multiply,

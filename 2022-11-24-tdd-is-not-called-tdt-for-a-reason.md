@@ -3,7 +3,7 @@ title: TDD is not called TDT for a reason
 subtitle: 'When people elaborate on TDD they seem to stay focused on the first letter
   but miss the focus of the other two letters. '
 coverImageUrl: https://www.alvarolorente.dev/img/blog/tdd.png
-publishedAt: '2022-11-24'
+publishedAt: '2022-11-24T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/11/24/tdd-is-not-called-tdt-for-a-reason
 ogTitle: TDD is not called TDT for a reason
 ogDescription: 'When people elaborate on TDD they seem to stay focused on the first

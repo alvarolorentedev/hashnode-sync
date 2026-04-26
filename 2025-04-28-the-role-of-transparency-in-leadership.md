@@ -3,7 +3,7 @@ title: The Role of Transparency in Leadership
 subtitle: As someone who has spent years navigating the complexities of engineering
   leadership, I can tell you that transparency is one of the most critical elements...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/00100645-f92a-437c-8197-7e45b8753a18_2000x2000.png
-publishedAt: '2025-04-28'
+publishedAt: '2025-04-28T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/the-role-of-transparency-in-leadership
 ogTitle: The Role of Transparency in Leadership
 ogDescription: As someone who has spent years navigating the complexities of engineering

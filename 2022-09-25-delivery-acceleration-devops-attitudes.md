@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: DevOps Mentality & Practices'
 subtitle: When we run services in production, mentality can make or break our intent
   to move towards real CI/CD
 coverImageUrl: https://www.alvarolorente.dev/img/blog/run_it.jpg
-publishedAt: '2022-09-25'
+publishedAt: '2022-09-25T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/25/delivery-acceleration-devops-attitudes
 ogTitle: 'Delivery Acceleration: DevOps Mentality & Practices'
 ogDescription: When we run services in production, mentality can make or break our

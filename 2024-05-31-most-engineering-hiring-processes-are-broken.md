@@ -3,7 +3,7 @@ title: Most Engineering Hiring Processes Are Broken
 subtitle: Leading a team or a company necessitates having individuals who can assist
   in realizing your objectives. Undoubtedly, this involves establishing a hiring...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/f54e5d3e-2ace-4f7f-9912-dc9ccbdd4956_2832x3145.png
-publishedAt: '2024-05-31'
+publishedAt: '2024-05-31T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/most-engineering-hiring-process-are
 ogTitle: Most Engineering Hiring Processes Are Broken
 ogDescription: Leading a team or a company necessitates having individuals who can

@@ -2,7 +2,7 @@
 title: 'Continious Delivery Bootcamp: Test Driven Development'
 subtitle: Learn how to get things fast into production with good quality
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/copy-of-continious.png
-publishedAt: '2023-04-13'
+publishedAt: '2023-04-13T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2023/04/13/continious-delivery-bootcamp-test-driven-development
 ogTitle: 'Continious Delivery Bootcamp: Test Driven Development'
 ogDescription: Learn how to get things fast into production with good quality

@@ -3,7 +3,7 @@ title: 'Double-edge Microservices: APIs the New Singleton'
 subtitle: In the current world of development we solve all with APIs, is it becoming
   an overused practice?
 coverImageUrl: https://www.alvarolorente.dev/img/blog/captura-de-pantalla-2022-12-19-a-las-17-16-39.png
-publishedAt: '2022-12-19'
+publishedAt: '2022-12-19T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/12/19/api-singleton
 ogTitle: 'Double-edge Microservices: APIs the New Singleton'
 ogDescription: In the current world of development we solve all with APIs, is it becoming

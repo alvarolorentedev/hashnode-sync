@@ -2,7 +2,7 @@
 title: 'Delivery Acceleration: Deployment Environments'
 subtitle: Where should we run our services? are there hidden consts on certain practices?
 coverImageUrl: https://www.alvarolorente.dev/img/blog/cicd.png
-publishedAt: '2022-10-10'
+publishedAt: '2022-10-10T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/10/delivery-acceleration-environments
 ogTitle: 'Delivery Acceleration: Deployment Environments'
 ogDescription: Where should we run our services? are there hidden consts on certain

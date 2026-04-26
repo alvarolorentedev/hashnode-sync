@@ -2,7 +2,7 @@
 title: 'Leaders Build Trust, Managers Take Control: The Path to Empowering Teams'
 subtitle: Are leaders and managers important for organizational success?
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/leader-manager.jpeg
-publishedAt: '2024-02-14'
+publishedAt: '2024-02-14T00:00:00.000Z'
 originalArticleURL: https://scalinghorizons.substack.com/p/leaders-build-trust-managers-take
 ogTitle: 'Leaders Build Trust, Managers Take Control: The Path to Empowering Teams'
 ogDescription: Are leaders and managers important for organizational success?

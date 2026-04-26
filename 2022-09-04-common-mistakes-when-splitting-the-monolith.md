@@ -2,7 +2,7 @@
 title: Common mistakes when splitting the monolith
 subtitle: A set of the most common mistakes when splitting your monolith into microservices
 coverImageUrl: https://user-images.githubusercontent.com/3071208/188307797-7c30c8cb-bff7-4755-822b-7cf469cba372.JPG
-publishedAt: '2022-09-04'
+publishedAt: '2022-09-04T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/04/common-mistakes-when-splitting-the-monolith
 ogTitle: Common mistakes when splitting the monolith
 ogDescription: A set of the most common mistakes when splitting your monolith into

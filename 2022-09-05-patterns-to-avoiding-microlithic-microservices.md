@@ -2,7 +2,7 @@
 title: Patterns to avoiding microlithic microservices
 subtitle: how can we decouple services to avoid some common pitfalls
 coverImageUrl: https://www.alvarolorente.dev/img/blog/microliths.jpg
-publishedAt: '2022-09-05'
+publishedAt: '2022-09-05T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/05/patterns-to-avoiding-microlithic-microservices
 ogTitle: Patterns to avoiding microlithic microservices
 ogDescription: how can we decouple services to avoid some common pitfalls

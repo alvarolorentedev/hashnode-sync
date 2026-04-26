@@ -2,7 +2,7 @@
 title: 'Continious Delivery Bootcamp: Continuous Integration'
 subtitle: Learn how to get things fast into production with good quality
 coverImageUrl: https://raw.githubusercontent.com/alvarolorentedev/website/main/static/img/blog/continious-integration.png
-publishedAt: '2023-04-24'
+publishedAt: '2023-04-24T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2023/04/24/continious-delivery-bootcamp-continuous-integration
 ogTitle: 'Continious Delivery Bootcamp: Continuous Integration'
 ogDescription: Learn how to get things fast into production with good quality

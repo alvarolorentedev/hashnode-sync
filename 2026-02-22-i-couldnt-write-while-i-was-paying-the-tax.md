@@ -3,7 +3,7 @@ title: I Couldnt Write While I Was Paying the Tax
 subtitle: For almost a year, I didn’t publish anything. Not because I didn’t have
   opinions. Not because I stopped caring. But because I was struggling.
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/e656200b-1aac-4208-9926-8d31c4b859fd_1024x1536.png
-publishedAt: '2026-02-22'
+publishedAt: '2026-02-22T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/i-couldnt-write-while-i-was-paying
 ogTitle: I Couldnt Write While I Was Paying the Tax
 ogDescription: For almost a year, I didn’t publish anything. Not because I didn’t

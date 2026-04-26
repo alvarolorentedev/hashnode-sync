@@ -3,7 +3,7 @@ title: Are We Providing Feedback or Something Else
 subtitle: Feedback is often called a gift, and indeed it's a powerful tool for improving
   our behaviors. This article won't cover how to provide feedback or various...
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/a2b982ea-1b47-4abe-a1b4-13528921cc89_1531x652.png
-publishedAt: '2025-05-13'
+publishedAt: '2025-05-13T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/are-we-providing-feedback-or-something
 ogTitle: Are We Providing Feedback or Something Else
 ogDescription: Feedback is often called a gift, and indeed it's a powerful tool for

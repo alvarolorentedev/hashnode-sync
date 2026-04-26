@@ -3,7 +3,7 @@ title: Boosting Success in Engineering Changes
 subtitle: Ever found yourself in engineering departments where tools and practices
   are adopted and discarded rapidly?
 coverImageUrl: https://substack-post-media.s3.amazonaws.com/public/images/ca210222-8426-48f0-ae2a-721d973f1f87_1080x1080.jpeg
-publishedAt: '2024-06-26'
+publishedAt: '2024-06-26T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/boosting-success-in-engineering-changes
 ogTitle: Boosting Success in Engineering Changes
 ogDescription: Ever found yourself in engineering departments where tools and practices

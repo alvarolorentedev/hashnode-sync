@@ -2,7 +2,7 @@
 title: Improving Mental Health at Work
 subtitle: Last week, we discussed the importance of managing 100% utilization within
   the team to maintain their well-being. As individuals, we each react differently...
-publishedAt: '2024-07-25'
+publishedAt: '2024-07-25T00:00:00.000Z'
 originalArticleURL: https://theengineeringtax.com/p/improving-mental-health-at-work
 ogTitle: Improving Mental Health at Work
 ogDescription: Last week, we discussed the importance of managing 100% utilization

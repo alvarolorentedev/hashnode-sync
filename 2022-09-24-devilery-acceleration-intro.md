@@ -3,7 +3,7 @@ title: 'Delivery Acceleration: Intro'
 subtitle: Why do teams perform differently and what are the tools & practices some
   team use to differentiate themselves
 coverImageUrl: https://www.alvarolorente.dev/img/blog/key_metrics.png
-publishedAt: '2022-09-24'
+publishedAt: '2022-09-24T00:00:00.000Z'
 originalArticleURL: https://www.alvarolorente.dev/blog/2022/09/24/devilery-acceleration-intro
 ogTitle: 'Delivery Acceleration: Intro'
 ogDescription: Why do teams perform differently and what are the tools & practices
