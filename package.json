@@ -1,0 +1,19 @@
+{
+  "name": "hashnode-sync",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "rss:postprocess": "node scripts/rss-postprocess.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "fast-xml-parser": "^5.3.0",
+    "front-matter": "^4.0.2",
+    "he": "^1.2.0",
+    "sanitize-filename": "^1.6.3",
+    "turndown": "^7.2.1",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}
